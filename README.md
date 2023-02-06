@@ -2,7 +2,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-I make elegantly professional 💻⎈🐳 **Distributed System / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈    
+I make elegantly professional 💻⎈🐳 **Distributed System / Kubernetes** ☁️ **Supercomputing** 📝 **Data Management** and 🌐 **Website** for a living and also **Write some blogs**. 🌈    
 
 * 💼   Used to be a Staff Engineer at Binance.com, but now I'm a TTU Student.
 * 🎓   Master of Science in Information Security, B.S. in Methematics.
